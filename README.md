@@ -11,7 +11,7 @@ This project is a faithful PyTorch implementation of [NeRF](http://www.matthewta
 ## Installation
 
 ```
-git clone https://github.com/haiyugong/nerf-pytorch.git
+git clone https://github.com/haiyugong/nerf-pytorch-pj.git
 cd nerf-pytorch
 pip install -r requirements.txt
 ```
@@ -20,7 +20,7 @@ pip install -r requirements.txt
   <summary> Dependencies (click to expand) </summary>
   
   ## Dependencies
-  - PyTorch 1.4
+  - PyTorch 1.13.1
   - matplotlib
   - numpy
   - imageio

@@ -1,6 +1,6 @@
-expname = fortress
+expname = ania
 basedir = ./logs
-datadir = ./data/nerf_llff_data/fortress_v2
+datadir = ./data/nerf_llff_data/ania
 dataset_type = llff
 
 factor = 8
